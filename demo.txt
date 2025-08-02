@@ -1,0 +1,18 @@
+For Backend
+
+in requirements.txt gunicorn optional if you want to deploy that time needed.
+
+cd server
+python -m venv venv
+source venv/bin/activate      # or venv\Scripts\Activate on Windows
+pip install -r requirements.txt
+
+
+
+Hey! I just made a cool app!
+
+It takes English text,speaks it aloud in different accents like(uk,us,indian) and then shows the bengali translation after the voice finishes!
+
+It even plays a fun talking video while speaking! After that, another video plays and shows the translated text. 
+
+It's useful if you want to improve pronunciation and understand the meaning in Bengali. Wanna try it?
