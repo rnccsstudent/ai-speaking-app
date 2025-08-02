@@ -49,7 +49,7 @@ A cool **full-stack app** with React (frontend) & Flask (backend) that converts 
 
 ![Image1](https://github.com/rnccsstudent/ai-speaking-app/blob/main/img/ai-speaking-app.png)
 
-![Image2](https://github.com/rnccsstudent/ai-speaking-app/blob/main/img/ai-speaking-app.png)
+![Image2](https://github.com/rnccsstudent/ai-speaking-app/blob/main/img/ai-speaking.png)
 
 ---
 
