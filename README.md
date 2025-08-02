@@ -47,7 +47,7 @@ A cool **full-stack app** with React (frontend) & Flask (backend) that converts 
 
 ### 🎬Idle Animation
 
-[![Idle Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Idle Animation](https://img.icons8.com/ios-filled/50/000000/play--v1.png)](https://github.com/rnccsstudent/ai-speaking-app/blob/main/client/public/idle_video.mp4)
 
 ### 🎬Speaking Animation
 
